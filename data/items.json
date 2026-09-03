@@ -1,0 +1,48 @@
+{
+  "site": {
+    "title": "GH 무한상상 아이디어 특별공모 「프로젝트 제로」 응모작 아카이브",
+    "subtitle": "혁신 수단 × 적용 영역 매트릭스로 살펴보는 우수작 23건",
+    "totalSubmissions": 92
+  },
+  "axes": {
+    "means": [
+      { "key": "AI", "label": "AI", "desc": "AI가 없으면 제안의 핵심 기능·효과를 구현하기 어려운 경우" },
+      { "key": "digital", "label": "디지털·기술", "desc": "AI는 핵심이 아니지만 BIM·IoT·로봇·드론·플랫폼·시스템 등 기술이 핵심 구현수단인 경우" },
+      { "key": "system", "label": "제도·방식", "desc": "AI·기술 없이도 제도, 절차, 운영방식, 사업모델 등의 변경만으로 핵심 아이디어가 성립하는 경우" }
+    ],
+    "domains": [
+      { "key": "work", "label": "업무혁신", "desc": "GH가 기존 업무를 수행하는 내부 절차·방법·도구를 개선하는 경우" },
+      { "key": "biz", "label": "사업혁신", "desc": "GH가 공급하는 도시·주택·토지 등의 사업 내용·기획·설계·건설·공급모델 자체를 변화시키는 경우" },
+      { "key": "service", "label": "서비스혁신", "desc": "도민·입주민·고객 등이 GH와 접점에서 이용하는 상담·신청·정보·생활지원 등 서비스와 이용경험을 개선하는 경우" }
+    ]
+  },
+  "items": [
+    { "id": "029", "title": "AI 설계변경 사전검증 심의체계", "means": "AI", "domain": "work" },
+    { "id": "050", "title": "전세임대 Copilot", "means": "AI", "domain": "work" },
+    { "id": "052", "title": "AI·BIM 통합관리", "means": "AI", "domain": "work" },
+    { "id": "082", "title": "AI 그룹웨어", "means": "AI", "domain": "work" },
+    { "id": "085", "title": "AI 재정착 플랫폼", "means": "AI", "domain": "work" },
+    { "id": "087", "title": "GH 원리퀘스트", "means": "AI", "domain": "work" },
+
+    { "id": "010", "title": "AI 미래공간 후보지 분석 플랫폼", "means": "AI", "domain": "biz" },
+    { "id": "012", "title": "GH Reverse City", "means": "AI", "domain": "biz" },
+    { "id": "013", "title": "Urban OS", "means": "AI", "domain": "biz" },
+    { "id": "040", "title": "AI 스마트글라스와 내규연계형 업무코칭", "means": "AI", "domain": "biz" },
+    { "id": "051", "title": "보상 민원·지장물 AI", "means": "AI", "domain": "biz" },
+    { "id": "072", "title": "AI·디지털트윈 선입주 프리리빙", "means": "AI", "domain": "biz" },
+    { "id": "073", "title": "AI 디지털트윈 선입주 프리리빙", "means": "AI", "domain": "biz" },
+    { "id": "077", "title": "AI 산단형 외국인 공공기숙사", "means": "AI", "domain": "biz" },
+
+    { "id": "022", "title": "AI 공간복지 GH경기유니티 최적화", "means": "AI", "domain": "service" },
+    { "id": "025", "title": "AI 주거구독 플랫폼", "means": "AI", "domain": "service" },
+    { "id": "030", "title": "AI LIFE OS", "means": "AI", "domain": "service" },
+    { "id": "033", "title": "AI 주거·금융 큐레이션", "means": "AI", "domain": "service" },
+    { "id": "074", "title": "AI 공공임대 신청경로 자동설계 서비스", "means": "AI", "domain": "service" },
+    { "id": "080", "title": "AI 사각지대 제로", "means": "AI", "domain": "service" },
+
+    { "id": "007", "title": "GIS·딥러닝 공간구조 활용 방안", "means": "digital", "domain": "biz" },
+
+    { "id": "053", "title": "구독형 청년주거", "means": "system", "domain": "biz" },
+    { "id": "061", "title": "청년혁신 TOD", "means": "system", "domain": "biz" }
+  ]
+}

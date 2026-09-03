@@ -14,10 +14,10 @@
  *     (설정 전까지는 댓글창 자리에 안내 문구만 보입니다.)
  */
 window.GISCUS_CONFIG = {
-  repo: "USERNAME/REPOSITORY",      // 예: "gh-corp/project-zero-archive"
-  repoId: "",                       // giscus.app 에서 발급되는 R_xxxxxxxx 값
-  category: "Comments",             // Discussions 카테고리 이름
-  categoryId: "",                   // giscus.app 에서 발급되는 DIC_xxxxxxxx 값
+  repo: "hyryu64/project-zero-archive",      // 예: "gh-corp/project-zero-archive"
+  repoId: "R_kgDOUM3dbQ",                       // giscus.app 에서 발급되는 R_xxxxxxxx 값
+  category: "General",             // Discussions 카테고리 이름
+  categoryId: "DIC_kwDOUM3dbc4DEx5u",                   // giscus.app 에서 발급되는 DIC_xxxxxxxx 값
   mapping: "pathname",
   reactionsEnabled: "1",            // 상단 👍 반응 = 추천 버튼 역할
   emitMetadata: "0",
